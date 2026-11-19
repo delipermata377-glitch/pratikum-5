@@ -1,0 +1,6 @@
+body { margin: 20px; }
+.box1 { background: lightgreen; height: 60px; margin-bottom: 15px; border: 1px solid black; }
+.row { display: flex; gap: 15px; margin-bottom: 15px; }
+.kecil { background: yellow; width: 120px; height: 100px; border: 1px solid black; }
+.orange { background: orangered; flex: 1; border: 1px solid black; }
+.biru { background: deepskyblue; flex: 1; border: 1px solid black; }

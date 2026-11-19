@@ -1,0 +1,9 @@
+body { margin: 20px; }
+.atas { display: flex; gap: 10px; margin-bottom: 10px; }
+.atas-kiri { background: yellow; width: 100px; height: 40px; border: 1px solid black; }
+.atas-kanan { background: orangered; flex: 1; border: 1px solid black; }
+.tengah { display: flex; gap: 10px; margin-bottom: 10px; height: 250px; }
+.hijau { background: lightgreen; width: 100px; border: 1px solid black; }
+.abu { background: lightgrey; flex: 1; border: 1px solid black; }
+.biru-muda { background: deepskyblue; width: 100px; border: 1px solid black; }
+.bawah { background: blue; height: 40px; border: 1px solid black; }

@@ -1,0 +1,6 @@
+body { margin: 0; }
+header, footer { background: #f9e68a; padding: 15px; text-align: left; }
+.tengah { display: flex; height: 200px; }
+article { background: white; flex: 2; padding: 10px; }
+aside { background: #f9a8c9; flex: 1; padding: 10px; }
+nav { background: #00e5e5; flex: 1; padding: 10px; }
